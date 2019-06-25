@@ -3,7 +3,7 @@
 http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/e422ffb6cf70d4e5f7130c01869fd9a5?title=4.1%20%3A%20WRC-HD%20NBC%204%20Washington
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
-http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/36ae8591b9f4e19f357a21338b64dfa4?title=5.1%20%3A%20WTTG-DT
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/36ae8591b9f4e19f357a21338b64dfa4?ticket=BC9AE183275B6833878A04B7BB3E2C38951E5E8C
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
 http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
