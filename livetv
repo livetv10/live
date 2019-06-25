@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/caebb497229ca97d4e5e8c02a3e5cb52?ticket=37E6EF9BA02D1CB601E1CAE76E69D1DF3857C4ED
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/e422ffb6cf70d4e5f7130c01869fd9a5?title=4.1%20%3A%20WRC-HD%20NBC%204%20Washington
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/f9a64f35ee5b9bd0bf66512401bcaaac?ticket=16152355CD7B04E1DB67F90C551F5B8076F68689
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/36ae8591b9f4e19f357a21338b64dfa4?title=5.1%20%3A%20WTTG-DT
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
 http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
@@ -12,7 +12,9 @@ http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029b
 http://tvserver100:854474@192.168.2.6:9981/stream/channel/4555b4990974ff1d3d79a77ffae3d80b?ticket=339AC84A3B94CB017319AB6308E8DF05FAED6DEE
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/cc1b89398c4f82d4a090c2b957488b99?ticket=327EC9945028ED82CF638ECBAC8AC2DBCE1F6DFD
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/33a8e544019fe4fdeb6d2351a3306893?title=20.1%20%3A%20WDCA%2020.1
+
+http://192.168.2.6:9981/play/stream/channel/33a8e544019fe4fdeb6d2351a3306893?title=20.1%20%3A%20WDCA%2020.1
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
 http://tvserver100:854474@192.168.2.6:9981/stream/channel/a4363aa37a704fab56baeb9fc200a5e3?ticket=CC07FE04081040215819E1D98AC8FA03BCAC6C93
