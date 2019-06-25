@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
-http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/e422ffb6cf70d4e5f7130c01869fd9a5?title=4.1%20%3A%20WRC-HD%20NBC%204%20Washington
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/e422ffb6cf70d4e5f7130c01869fd9a5?ticket=A588CBC8DDEF6D08D3D2675A4FA6BE71054DCDEB
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
 http://tvserver100:854474@192.168.2.6:9981/stream/channel/36ae8591b9f4e19f357a21338b64dfa4?ticket=BC9AE183275B6833878A04B7BB3E2C38951E5E8C
@@ -9,12 +9,10 @@ http://tvserver100:854474@192.168.2.6:9981/stream/channel/36ae8591b9f4e19f357a21
 http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png", FOX5 PLUS
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/4555b4990974ff1d3d79a77ffae3d80b?ticket=339AC84A3B94CB017319AB6308E8DF05FAED6DEE
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/33a8e544019fe4fdeb6d2351a3306893?ticket=FF434BEBE9178ABE0508D767FAE3D2F67744F05B
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
-http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/33a8e544019fe4fdeb6d2351a3306893?title=20.1%20%3A%20WDCA%2020.1
-
-http://192.168.2.6:9981/play/stream/channel/33a8e544019fe4fdeb6d2351a3306893?title=20.1%20%3A%20WDCA%2020.1
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/7f81333d6d00582f434ef8634c9e2eb4?ticket=D4C052CA8AC7E62F1C402024A2D66DBEBA7F1817
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
 http://tvserver100:854474@192.168.2.6:9981/stream/channel/a4363aa37a704fab56baeb9fc200a5e3?ticket=CC07FE04081040215819E1D98AC8FA03BCAC6C93
@@ -23,5 +21,5 @@ http://tvserver100:854474@192.168.2.6:9981/stream/channel/a4363aa37a704fab56baeb
 http://tvserver100:854474@192.168.2.6:9981/stream/channel/d4853bf3eae83d945dd63803e03690d9?ticket=1AE4D291A8EC0CD9627D0F9A391FF63F6ACA7079
 
 #EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", IONLife
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/83d79535f8aaa9cc577bd9b29f1a342f?ticket=9B22A7C3C77F1B712A0A0EF2CF1255A134C211CB
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/62119735b2fc7a496f3bbffc1e637591?ticket=00CE3C2A0D57B1A407C08460AA9CA3115C0FD1FD
 
