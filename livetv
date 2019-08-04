@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/e422ffb6cf70d4e5f7130c01869fd9a5?ticket=EB1A1758364BADC29D8CE2B007BA9492DA093619
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/aaeef6ed225b1f04f5784e51f5a62125?ticket=D531F171A1D7D7F73AC3179940239382506E9D14
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/36ae8591b9f4e19f357a21338b64dfa4?ticket=D2F1FBABB90CE7691184CA9C0EBB918E21FC085D
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/83f9b435e900bc3b82f3f2c2066b8a76?ticket=8772064164D1FD6D50E4957A2C74B91044DD99DC
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
 http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
