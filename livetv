@@ -9,13 +9,13 @@ http://tvserver100:854474@192.168.2.6:9981/stream/channel/83f9b435e900bc3b82f3f2
 http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png", FOX5 PLUS
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/33a8e544019fe4fdeb6d2351a3306893?ticket=FF434BEBE9178ABE0508D767FAE3D2F67744F05B
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/1cd8c22b10d14b003399d21434275379?ticket=8C588BF396DA8A562E36B28A80754DC0DD78AF39
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/7f81333d6d00582f434ef8634c9e2eb4?ticket=D4C052CA8AC7E62F1C402024A2D66DBEBA7F1817
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/6b44668068d31444dc6995e9d1eb41f4?ticket=73AB41F4837C15E717C1E7B362AF2FBA1C00DCA4
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/a4363aa37a704fab56baeb9fc200a5e3?ticket=CC07FE04081040215819E1D98AC8FA03BCAC6C93
+http://tvserver100:854474@192.168.2.6:9981/stream/channel/24813de7157748b9eb59634102fcf82f?ticket=5AB7CF847A735C3E6D520D13E778D48EE9C1AC6B
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png", ION TV
 http://tvserver100:854474@192.168.2.6:9981/stream/channel/d4853bf3eae83d945dd63803e03690d9?ticket=1AE4D291A8EC0CD9627D0F9A391FF63F6ACA7079
