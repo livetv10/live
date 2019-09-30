@@ -1,25 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/9/99/WJLA2017.png",ABC7 HD 
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/81ed849698d28a9790c47d5d15c0b871?title=7.1%20%3A%20WJLA-HD
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19578/s28717_h3_aa.png",NBC HD 
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/aaeef6ed225b1f04f5784e51f5a62125?ticket=D531F171A1D7D7F73AC3179940239382506E9D14
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/33efca6d5736b938f44633988389eda1?title=4.1%20%3A%20WRC-HD%20NBC%204%20Washington
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png", FOX5 HD
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/83f9b435e900bc3b82f3f2c2066b8a76?ticket=8772064164D1FD6D50E4957A2C74B91044DD99DC
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/1b8d62912957fa4e8099c0352a9fbef3?title=5.1%20%3A%20WTTG-DT
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png", CBS HD
-http://tvserver100:854474@192.168.2.6:9981/stream/service/dc9d42456f2372ddd1029bd7d935bad5?ticket=D351BF54638C6C6671DEB64D2605BBF02C851D85
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/df88a469e3737eb1eb9697a598e2d0bd?title=9.1%20%3A%20WUSA-HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/WDCA_2018_Logo.png", FOX5 PLUS
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/1cd8c22b10d14b003399d21434275379?ticket=8C588BF396DA8A562E36B28A80754DC0DD78AF39
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/3ede555ea8dfd5c2e4af34ce2f595599?title=20.1%20%3A%20WDCA%2020.1
 
 #EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", WDCW-HD
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/6b44668068d31444dc6995e9d1eb41f4?ticket=73AB41F4837C15E717C1E7B362AF2FBA1C00DCA4
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/1206a3fda736adca2cbb0496c7c8f14a?title=50.1%20%3A%20WDCW-DT
 
 #EXTINF:-1 tvg-logo="http://www.promotionandarts.org/sites/default/files/styles/sponsor_logo/public/CW%20Color.png",CW BALTIMORE
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/24813de7157748b9eb59634102fcf82f?ticket=5AB7CF847A735C3E6D520D13E778D48EE9C1AC6B
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/b95137882f465c194052b819a2bef0e8?title=54.1%20%3A%20CW
 
 #EXTINF:-1,tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png", ION TV
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/d4853bf3eae83d945dd63803e03690d9?ticket=1AE4D291A8EC0CD9627D0F9A391FF63F6ACA7079
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/67a78d11b175afaedca1f0937321f7c4?title=66.1%20%3A%20ION
 
 #EXTINF:-1,tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", IONLife
-http://tvserver100:854474@192.168.2.6:9981/stream/channel/62119735b2fc7a496f3bbffc1e637591?ticket=00CE3C2A0D57B1A407C08460AA9CA3115C0FD1FD
-
+http://tvserver100:854474@192.168.2.6:9981/play/stream/channel/8defb004214bcf6f6a9c9c27e035fa57?title=66.3%20%3A%20IONPlus
